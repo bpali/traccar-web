@@ -16,28 +16,28 @@
     <define-configuration-property name="traccar.locale"
                      is-multi-valued="true"/>
     <set-configuration-property name="traccar.locale" value="default" />
-    <extend-configuration-property name="traccar.locale" value="ru" />
-    <extend-configuration-property name="traccar.locale" value="de" />
-    <extend-configuration-property name="traccar.locale" value="it" />
-    <extend-configuration-property name="traccar.locale" value="es" />
-    <extend-configuration-property name="traccar.locale" value="pl" />
-    <extend-configuration-property name="traccar.locale" value="tl" />
+<!--     <extend-configuration-property name="traccar.locale" value="ru" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="de" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="it" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="es" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="pl" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="tl" /> -->
     <extend-configuration-property name="traccar.locale" value="hu" />
-    <extend-configuration-property name="traccar.locale" value="pt_PT" />
-    <extend-configuration-property name="traccar.locale" value="sv_SE" />
-    <extend-configuration-property name="traccar.locale" value="bg" />
-    <extend-configuration-property name="traccar.locale" value="fr" />
-    <extend-configuration-property name="traccar.locale" value="pt_BR" />
-    <extend-configuration-property name="traccar.locale" value="da" />
-    <extend-configuration-property name="traccar.locale" value="cs" />
-    <extend-configuration-property name="traccar.locale" value="sr" />
-    <extend-configuration-property name="traccar.locale" value="sr_Latn" />
-    <extend-configuration-property name="traccar.locale" value="he" />
-    <extend-configuration-property name="traccar.locale" value="fa" />
-    <extend-configuration-property name="traccar.locale" value="el_GR" />
-    <extend-configuration-property name="traccar.locale" value="mk" />
-    <extend-configuration-property name="traccar.locale" value="vi" />
-    <extend-configuration-property name="traccar.locale" value="ar" />
+<!--     <extend-configuration-property name="traccar.locale" value="pt_PT" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="sv_SE" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="bg" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="fr" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="pt_BR" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="da" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="cs" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="sr" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="sr_Latn" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="he" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="fa" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="el_GR" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="mk" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="vi" /> -->
+<!--     <extend-configuration-property name="traccar.locale" value="ar" /> -->
     <extend-configuration-property name="traccar.locale" value="ro" />
 
     <!-- generator for all 'Messages' interfaces -->
